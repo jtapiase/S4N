@@ -12,7 +12,7 @@ public class main {
         sleep(2000);
         System.out.println("Printing numbers from 1 to 100\n"
                 + "Changing multiples of 3 for ´Fizz´ and multiples of 5 for 'Buzz'\n"
-                + "if number is multiple of both, 'FizzBuzz' is printed");
+                + "if number is multiple of both, 'FizzBuzz' is printed\n");
         sleep(2000);
         
         number numero = new number();
