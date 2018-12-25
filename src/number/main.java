@@ -17,5 +17,6 @@ public class main {
         
         number numero = new number();
         numero.evaluateNumbers();
+        System.out.println("test message");
     }
 }
